@@ -1,0 +1,19 @@
+.iprofile{
+	display: block;
+	margin-top: -20px;
+	position: absolute;
+	width: 50px;
+	border-radius: 50%;
+}
+.poststyle{
+	width: 80%; 
+	position: relative; left: 10%;
+	border-radius: 5%;
+}
+.caption{
+	margin-left: 60px;
+}
+.username{
+	margin-left: 60px;
+	margin-top: 20px;
+}
